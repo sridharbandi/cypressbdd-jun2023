@@ -1,0 +1,5 @@
+cucumber-messages.ndjson
+node_modules
+reports
+cypress/videos
+cypress/screenshots
